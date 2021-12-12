@@ -30,4 +30,4 @@ npm install --global js
 
 ### Alternative Install
 
-curl https://github.com/StringManolo/js/bin/js -L > /usr/bin/js 
+curl https://github.com/StringManolo/js/blob/c01e68feaaef521304fc7b5d073aec209243a311/bin/js -L > /usr/bin/js 
