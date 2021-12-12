@@ -1,6 +1,6 @@
 {
-  "name": "js",
-  "version": "0.0.1",
+  "name": "command-javascript",
+  "version": "1.0.0",
   "description": "Js is a command utility to run javascript as a command in a simple way.",
   "main": "bin/js",
   "bin": {

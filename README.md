@@ -26,7 +26,7 @@ Fetch a remote resource and return the number of words ```js 'console.log(run("c
 
 ### Install
 
-npm install --global js
+npm install --global command-javascript
 
 ### Alternative Install
 
